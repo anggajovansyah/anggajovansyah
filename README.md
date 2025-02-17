@@ -1,4 +1,4 @@
-# Hello Fellas! I'm Angga, a full stack dev :
+# Hi Fellas! I'm Angga, a full stack dev :
 📖 Currently studying in Institut Teknologi Sains Bandung <br>
 
 # 💻 Tech Stack:
